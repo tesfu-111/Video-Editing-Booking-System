@@ -45,7 +45,7 @@ const defaultSiteData: PublicSiteData = {
   about: {
     fullName: "Tesfaye kebede",
     role: "Lead Video Editor & Colorist",
-    portraitUrl: "/images/director_portrait_monochrome_1793157695050.jpg",
+    portraitUrl: "/images/tesfaye.jpg",
     bio: [
       "I am a freelance video editor and colorist with over 7 years of dedicated experience shaping visual stories for modern creators, music directors, and commercial campaigns.",
       "My philosophy centers on pacing, rhythm, and emotional resonance. Great editing is not merely cutting clips to music; it is curating an unspoken dialogue between tension and release that captivates an audience from the first frame to the final fade.",
@@ -245,10 +245,10 @@ const defaultSiteData: PublicSiteData = {
   contactSettings: {
     email: "contact@auracuts.com",
     phone: "+1 (555) 382-9012",
-    whatsapp: "https://wa.me/15553829012",
-    telegram: "https://t.me/auracuts",
-    instagram: "https://instagram.com/auracuts",
-    tiktok: "https://tiktok.com/@auracuts",
+    whatsapp: "https://wa.me/@ye_mariam_12",
+    telegram: "https://t.me/@tesf12",
+    instagram: "https://instagram.com/@ye_mariam_12",
+    tiktok: "https://tiktok.com/@tesfa_edits",
     youtube: "https://youtube.com/@auracuts",
     linkedin: "https://linkedin.com/in/auracuts",
     availabilityNote: "Currently accepting project commissions and retainer partnerships."
