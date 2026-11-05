@@ -27,7 +27,7 @@ export const Footer: React.FC<FooterProps> = ({
           <div className="md:col-span-2 space-y-4">
             <div>
               <span className="font-display font-extrabold text-xl text-white uppercase tracking-wider">
-                {settings.brandLogoText || settings.brandName || 'AURA // CUTS'}
+                {settings.brandLogoText || settings.brandName || 'HOPE'}
               </span>
             </div>
             <p className="text-xs text-[#A5A5AA] max-w-sm leading-relaxed">

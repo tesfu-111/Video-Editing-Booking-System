@@ -453,7 +453,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
                     {isSubmitting ? (
                       <>
                         <Loader2 className="w-5 h-5 animate-spin" />
-                        <span>Sending Brief to Alex Vance...</span>
+                        <span>Sending Brief to tesfaye...</span>
                       </>
                     ) : (
                       <>

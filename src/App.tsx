@@ -243,8 +243,8 @@ const defaultSiteData: PublicSiteData = {
     }
   ],
   contactSettings: {
-    email: "contact@auracuts.com",
-    phone: "+1 (555) 382-9012",
+    email: "goupg4@gmail.com",
+    phone: "+251909732770",
     whatsapp: "https://wa.me/@ye_mariam_12",
     telegram: "https://t.me/@tesf12",
     instagram: "https://instagram.com/@ye_mariam_12",
