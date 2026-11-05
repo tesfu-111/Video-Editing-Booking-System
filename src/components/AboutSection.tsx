@@ -1,6 +1,6 @@
 import React from 'react';
 import type { AboutData } from '../types/portfolio.ts';
-import defaultPortrait from '../assets/images/director_portrait_monochrome_1793157695050.jpg';
+import defaultPortrait from '../assets/images/tesfaye.jpg';
 import {
   Download,
   MapPin,
