@@ -47,12 +47,12 @@ const defaultSiteData: PublicSiteData = {
     role: "Lead Video Editor & Colorist",
     portraitUrl: "/images/tesfaye.jpg",
     bio: [
-      "I am a freelance video editor and colorist with over 7 years of dedicated experience shaping visual stories for modern creators, music directors, and commercial campaigns.",
-      "My philosophy centers on pacing, rhythm, and emotional resonance. Great editing is not merely cutting clips to music; it is curating an unspoken dialogue between tension and release that captivates an audience from the first frame to the final fade.",
-      "Whether crafting punchy high-retention short-form edits or pacing a feature-style documentary cut, I bring precision, advanced color grading, and meticulous sound design to every timeline."
+      "Hello! I'm Tesfaye Kebede, a passionate video editor dedicated to transforming raw footage into engaging visual stories.",
+      "I specialize in cinematic video editing, professional color grading, motion graphics, visual effects, and creative storytelling. My passion is bringing ideas to life through powerful visuals, smooth transitions, dynamic pacing, and professional sound design.",
+      "I enjoy working on different types of video projects, including promotional videos, music videos, social media content, documentaries, and cinematic productions."
     ],
     careerGoals: "Advancing boundary-pushing cinematic narratives in commercial advertising and short cinema, while helping ambitious brands dominate high-converting short-form formats.",
-    experienceYears: 7,
+    experienceYears: 1,
     location: "Available Globally (Remote / Worldwide Delivery)",
     availabilityStatus: "Available for Select Projects & Monthly Retainers",
     specialties: [

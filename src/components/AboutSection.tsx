@@ -133,7 +133,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({
               </button>
 
               <div className="text-xs font-mono-tag text-[#A5A5AA]">
-                {about.experienceYears}+ Years Crafting Visual Narratives
+                {about.experienceYears}
               </div>
             </div>
           </div>
