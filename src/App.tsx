@@ -26,9 +26,9 @@ import { Loader2 } from 'lucide-react';
 
 const defaultSiteData: PublicSiteData = {
   settings: {
-    brandName: "AURA CUTS",
+    brandName: "HOPE",
     brandTagline: "Cinematic Post-Production & Storytelling",
-    brandLogoText: "AURA // CUTS",
+    brandLogoText: "HOPE//EDITS",
     heroBackgroundMode: "image",
     heroImageUrl: "/images/hero_cinematic_director_1793157693542.jpg",
     heroVideoUrl: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
@@ -38,12 +38,12 @@ const defaultSiteData: PublicSiteData = {
     heroSecondaryCtaText: "Let's Work Together",
     showReelUrl: "https://www.youtube.com/watch?v=LXb3EKWsInQ",
     accentColor: "#FF6A2B",
-    seoTitle: "AURA CUTS - Video Editor | Cinematic Storytelling | Motion Graphics",
+    seoTitle: "HOPE- Video Editor | Cinematic Storytelling | Motion Graphics",
     seoDescription: "Award-winning video editing, high-end color grading, sound design, and motion graphics for creators, commercial brands, and musicians.",
-    footerCopyright: "© 2026 AURA CUTS. All rights reserved. Crafted for visual impact."
+    footerCopyright: "© 2026 HOPE. All rights reserved. Crafted for visual impact."
   },
   about: {
-    fullName: "Alex Vance",
+    fullName: "Tesfaye kebede",
     role: "Lead Video Editor & Colorist",
     portraitUrl: "/images/director_portrait_monochrome_1793157695050.jpg",
     bio: [

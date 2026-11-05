@@ -59,7 +59,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             onClick={() => handleLinkClick('home')}
             className="font-display font-bold text-lg sm:text-xl tracking-wider text-[#F5F5F5] uppercase hover:text-[#FF6A2B] transition-colors whitespace-nowrap shrink-0 cursor-pointer focus:outline-none"
           >
-            {settings.brandLogoText || settings.brandName || 'AURA // CUTS'}
+            {settings.brandLogoText || settings.brandName || 'HOPE'}
           </button>
 
           {/* Desktop Navigation Links */}
