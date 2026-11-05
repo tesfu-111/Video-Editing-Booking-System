@@ -1,8 +1,12 @@
 node_modules/
-build/
 dist/
-coverage/
-.DS_Store
+build/
+out/
+*.tsbuildinfo
+.env
+.env.local
 *.log
-.env*
-!.env.example
+.DS_Store
+coverage/
+.vscode/
+.aistudio/
