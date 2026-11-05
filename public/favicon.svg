@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0B0B0D" stroke="#26262B" stroke-width="2"/>
+  <circle cx="32" cy="32" r="20" fill="none" stroke="#FF6A2B" stroke-width="3"/>
+  <circle cx="32" cy="32" r="7" fill="#FF6A2B"/>
+  <!-- Film reel perforations -->
+  <circle cx="32" cy="18" r="3.5" fill="#FF6A2B"/>
+  <circle cx="32" cy="46" r="3.5" fill="#FF6A2B"/>
+  <circle cx="18" cy="32" r="3.5" fill="#FF6A2B"/>
+  <circle cx="46" cy="32" r="3.5" fill="#FF6A2B"/>
+  <!-- Corner indicator -->
+  <path d="M12 12 L20 12 M12 12 L12 20" stroke="#FF6A2B" stroke-width="2" stroke-linecap="round"/>
+  <path d="M52 52 L44 52 M52 52 L52 44" stroke="#FF6A2B" stroke-width="2" stroke-linecap="round"/>
+</svg>
