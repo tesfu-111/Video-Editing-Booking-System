@@ -93,12 +93,7 @@ export const Hero: React.FC<HeroProps> = ({
         {/* Top Hud Bar: Live Studio Telemetry (Clean unboxed text, no static pills) */}
         <div className="relative z-10 max-w-7xl mx-auto px-6 sm:px-8 w-full flex items-center justify-between text-xs font-mono-tag text-[#A5A5AA] border-b border-[#26262B]/60 pb-4">
           <div className="flex items-center gap-3">
-            <span className="text-[#FF6A2B] font-bold tracking-wider">REC</span>
-            <span className="tabular-nums tracking-widest text-white">{timecode}</span>
-            <span className="hidden sm:inline" aria-hidden="true">·</span>
-            <span className="hidden sm:inline">23.976 FPS</span>
-            <span className="hidden sm:inline" aria-hidden="true">·</span>
-            <span className="hidden md:inline">4K DCI · PRORES 4444</span>
+            
           </div>
 
           <div className="flex items-center gap-4">
@@ -110,9 +105,7 @@ export const Hero: React.FC<HeroProps> = ({
               <div className="w-0.5 bg-[#FF6A2B] h-2.5 animate-pulse delay-100" />
               <div className="w-0.5 bg-[#FF6A2B] h-1 animate-pulse delay-200" />
             </div>
-            <span className="text-[11px] uppercase tracking-wider text-[#D4D4D8]">
-              {settings.brandTagline || 'Cinematic Post-Production'}
-            </span>
+            
           </div>
         </div>
 
@@ -130,7 +123,7 @@ export const Hero: React.FC<HeroProps> = ({
 
           {/* Subtitle / Lead */}
           <p className="text-base sm:text-lg md:text-xl text-[#A5A5AA] font-normal max-w-2xl leading-relaxed mb-10 text-balance">
-            High-impact narrative editing, high-end ACES color grading, and dynamic retention-driven pacing for commercial campaigns, music videos, and visionary creators.
+           
           </p>
 
           {/* Action Row */}
@@ -171,60 +164,17 @@ export const Hero: React.FC<HeroProps> = ({
             onClick={onExploreWork}
             className="inline-flex items-center gap-2 text-xs font-mono-tag text-[#A5A5AA] hover:text-[#FF6A2B] transition-colors cursor-pointer"
           >
-            <span className="tracking-widest uppercase">Scrub Timeline</span>
+           
             <span className="text-[#FF6A2B]">&darr;</span>
           </button>
         </div>
       </section>
 
       {/* 4-Column KPI Proof Strip (Claim-to-Proof Placement right below hero) */}
-      <div className="border-y border-[#26262B] bg-[#171719]/80 backdrop-blur-md">
-        <div className="max-w-7xl mx-auto px-6 sm:px-8 py-8 grid grid-cols-2 md:grid-cols-4 gap-6 sm:gap-8">
-          <div>
-            <div className="font-display font-extrabold text-3xl sm:text-4xl text-white tracking-tight tabular-nums">
-              120M<span className="text-[#FF6A2B]">+</span>
-            </div>
-            <div className="text-xs font-mono-tag text-[#A5A5AA] mt-1 uppercase tracking-wider">
-              Organic Audience Impressions
-            </div>
-          </div>
-
-          <div>
-            <div className="font-display font-extrabold text-3xl sm:text-4xl text-white tracking-tight tabular-nums">
-              850<span className="text-[#FF6A2B]">+</span>
-            </div>
-            <div className="text-xs font-mono-tag text-[#A5A5AA] mt-1 uppercase tracking-wider">
-              Hours in Premiere &amp; After Effects
-            </div>
-          </div>
-
-          <div>
-            <div className="font-display font-extrabold text-3xl sm:text-4xl text-white tracking-tight tabular-nums">
-              48<span className="text-[#FF6A2B]">HR</span>
-            </div>
-            <div className="text-xs font-mono-tag text-[#A5A5AA] mt-1 uppercase tracking-wider">
-              Express Delivery Turnaround
-            </div>
-          </div>
-
-          <div>
-            <div className="font-display font-extrabold text-3xl sm:text-4xl text-white tracking-tight tabular-nums">
-              100<span className="text-[#FF6A2B]">%</span>
-            </div>
-            <div className="text-xs font-mono-tag text-[#A5A5AA] mt-1 uppercase tracking-wider">
-              On-Time Delivery Milestone Record
-            </div>
-          </div>
-        </div>
-      </div>
+      
 
       {/* Infinite Marquee Ribbon Divider */}
-      <div className="py-3 bg-[#0B0B0D] overflow-hidden whitespace-nowrap border-b border-[#26262B] text-xs font-mono-tag uppercase tracking-widest text-[#A5A5AA]/80 select-none">
-        <div className="inline-block animate-marquee">
-          <span>SELECTED WORKS · ACES COLOR SCIENCE · HIGH-RETENTION ARCHITECTURE · EDITORIAL PACING · MOTION GRAPHICS · DIRECTORIAL CUTS · SOUND DESIGN · FOLEY LAYERING · </span>
-          <span>SELECTED WORKS · ACES COLOR SCIENCE · HIGH-RETENTION ARCHITECTURE · EDITORIAL PACING · MOTION GRAPHICS · DIRECTORIAL CUTS · SOUND DESIGN · FOLEY LAYERING · </span>
-        </div>
-      </div>
+      
     </div>
   );
 };

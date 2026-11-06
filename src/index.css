@@ -23,10 +23,10 @@
     selection-color: #0B0B0D;
   }
 
-  h1, h2, h3, .font-display {
-    font-family: 'Syne', sans-serif;
-    letter-spacing: -0.02em;
-  }
+ h1, h2, h3, .font-display {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
 
   .font-mono-tag {
     font-family: 'Space Grotesk', monospace, sans-serif;
